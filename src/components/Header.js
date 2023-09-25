@@ -18,7 +18,7 @@ const Header = () => {
       wrap='wrap'
       py='6'
       px='6'
-      bgColor='purple.500'
+      bgColor='pink.900'
       w='100%'
       pos='fixed'
       zIndex='9999'
@@ -35,7 +35,7 @@ const Header = () => {
           size='md'
           letterSpacing='wide'
         >
-          Whatsapp | Bots
+         | Alex | 
         </Heading>
       </Link>
 

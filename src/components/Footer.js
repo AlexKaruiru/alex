@@ -14,7 +14,7 @@ const Footer = () => {
       
       {/* Copyright Text */}
       <Text mt='3' fontWeight='semibold'>
-        &copy; {new Date().getFullYear()} Alex & bots.
+        &copy; {new Date().getFullYear()} Alex.
       </Text>
     </Flex>
   );
